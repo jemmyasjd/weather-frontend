@@ -1,4 +1,4 @@
-# 🌤️ [Weather Explorer](https://freshfruithub.vercel.app/](https://climate-risk-explorer.vercel.app/)
+# 🌤️ [Weather Explorer](https://climate-risk-explorer.vercel.app/)
 
 ## **Explanation Video:** [Click Here](#)
 
